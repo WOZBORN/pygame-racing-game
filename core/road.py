@@ -1,5 +1,5 @@
 import pygame
-from settings import ROAD_SPRITE, SCREEN_HEIGHT, SCREEN_WIDTH
+from .settings import ROAD_SPRITE, SCREEN_HEIGHT, SCREEN_WIDTH
 
 
 class Road:
