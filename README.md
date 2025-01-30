@@ -68,8 +68,11 @@ python main.py
 
 ## Скриншоты
 *Скриншот геймплея*
+
 ![Скриншот геймплея](screenshots/gameplay.png)
+
 *Скриншот экрана "Game Over"*
+
 ![Скриншот экрана "Game Over"](screenshots/game_over.png)
 
 ---
