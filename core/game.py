@@ -33,7 +33,6 @@ class Game:
                 return True
 
         # Проверка столкновений между NPC
-        to_remove = set()
         for i, npc1 in enumerate(self.npcs):
             for j, npc2 in enumerate(self.npcs):
                 if i != j and npc1.rect.colliderect(npc2.rect):
