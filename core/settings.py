@@ -16,7 +16,7 @@ PLAYER_MAX_SPEED = 10
 # Настройки NPC
 NPC_SPEED_MIN = 2
 NPC_SPEED_MAX = 7
-NPC_COUNT = 3
+NPC_COUNT = 4
 
 # Пути к спрайтам
 PLAYER_SPRITE = "assets/player_red.png"
